@@ -1,0 +1,10 @@
+*{
+  padding: 0; margin: 0; box-sizing: border-box;
+}
+body{
+  background-color: rgb(215, 250, 241);
+}
+.cursor-pointer{
+  font-size: 20px;
+  cursor: pointer;
+}
